@@ -1,0 +1,2 @@
+# Ashish-bhushan--CodeArena-Online-Coding-Practice-Platform-with-Real-Time-Code-Execution
+I developed a full-stack coding platform that allows users to solve coding problems as they are being generated via Judge0 .I integrated secure registration, login, email verification, and password recovery features. I built and designed the Users, Problems and, Submissions schema and Redis caching for quick response retrieval.
